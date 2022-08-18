@@ -32,12 +32,6 @@
     <loc>/publication/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/source-themes/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tags/</loc>
-    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/publication/working-paper/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +63,9 @@
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/project/</loc>
+    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/tags/</loc>
     <lastmod>2016-04-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>
