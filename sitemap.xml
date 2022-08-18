@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/talk/example/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/talk/</loc>
-    <lastmod>2030-06-01T13:00:00+00:00</lastmod>
-  </url><url>
     <loc>/author/with-sudhanshu-handa/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +12,9 @@
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/job-market-paper/</loc>
+    <lastmod>2022-08-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/</loc>
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/author/paul-sirma/</loc>
@@ -56,23 +50,6 @@
     <loc>/author/sudhanshu-handa/</loc>
     <lastmod>2021-07-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tag/deep-learning/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/tag/demo/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/external-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/internal-project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>/project/</loc>
-    <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/categories/</loc>
-  </url><url>
-    <loc>/author/%E5%90%B3%E6%81%A9%E9%81%94/</loc>
   </url>
 </urlset>
