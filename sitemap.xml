@@ -2,13 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/author/with-sudhanshu-handa/</loc>
+  <!-  <loc>/author/with-sudhanshu-handa/</loc> -->
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/publication-type/3/</loc>
+   <!- <loc>/publication-type/3/</loc> -->
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/authors/</loc>
+   <!- <loc>/authors/</loc> -->
     <lastmod>2022-08-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/publication/job-market-paper/</loc>
