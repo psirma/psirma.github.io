@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Paul Sirma</title>
+    <link>/publication/</link>
+      <atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 07 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>/publication/</link>
+    </image>
+    
+    <item>
+      <title>Long-term impacts of unconditional cash transfers on schooling: evidence from Malawi</title>
+      <link>/publication/job-market-paper/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/job-market-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The effect of unconditional cash transfers on labor allocation and farm productivity </title>
+      <link>/publication/working-paper/</link>
+      <pubDate>Sun, 07 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/working-paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>More evidence on the impact of government social protection in sub-Saharan Africa: Ghana, Malawi, and Zimbabwe</title>
+      <link>/publication/published-paper/</link>
+      <pubDate>Sun, 04 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>/publication/published-paper/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
