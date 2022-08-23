@@ -1,0 +1,3 @@
+[submodule "psirma.github.io"]
+	path = psirma.github.io
+	url = https://github.com/psirma/psirma.github.io.git
